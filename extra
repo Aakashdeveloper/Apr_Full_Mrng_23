@@ -43,3 +43,53 @@ NodeJs 4-5
 Cloud
 > Basic Aws
 > Lambda
+
+NodejS
+> Async Single Thread Non block I/0
+
+
+add(() => {})
+////////////////////////////////
+JSON > JavaScript Object Notation
+[
+   {
+      "name":"John",
+      "city":"Venice"
+   },
+   {
+      "name":"Neha",
+      "city":"Paris",
+      "lang":"Hindi"
+   }
+]
+
+Express
+> Is framwork of nodejs
+Creating the routes and handle middleware
+
+Package.json
+> Entry point to application
+> Contains meta data (name description,version)
+> Scripts (start,test,build)
+> Packages (used for app)
+
+Npm 
+> Node Package Manager
+> Help to install packages
+> It help to run the script
+
+// Step to generate package.json
+* NodeJs must be installed
+> open the cmd/terminal
+> go inside folder where you want to generate
+> npm init
+> Answer question 
+> type yes
+
+> npm init -y
+
+// How to install packages
+* NodeJs must be installed
+> open the cmd/terminal
+> go inside folder where you want to generate
+> npm i packagename
