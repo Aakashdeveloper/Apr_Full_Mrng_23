@@ -127,3 +127,21 @@ Store > Save the state
 /******UserInfo*****/
 (GET) => http://3.17.216.66:5000/api/auth/userinfo
 (Header) => {'x-access-token':'token value from login'}
+
+npm i -g json-server
+json-server --watch db.json --port 3321
+
+//redux without hooks
+
+Action
+> For Api Calling 
+> Retunr type and payload
+
+Reducer
+> Help to maintain state with switch case
+
+Store
+> Help to save the state for view
+
+View
+> With help of map state to props we recive the data
